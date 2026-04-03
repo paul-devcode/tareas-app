@@ -54,5 +54,8 @@ Este proyecto lo he desarrollado como práctica de backend para entender cómo c
 * Desplegar la aplicación
 
 
-<img width="702" height="510" alt="image" src="https://github.com/user-attachments/assets/c28207c2-185c-4aca-9341-1266bd7c74ee" />
+<h2 align="center">Vista de la aplicación</h2>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c28207c2-185c-4aca-9341-1266bd7c74ee" width="500">
+</p>
