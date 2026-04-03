@@ -52,3 +52,7 @@ Este proyecto lo he desarrollado como práctica de backend para entender cómo c
 * Añadir filtros (tareas completadas / pendientes)
 * Mejorar la interfaz
 * Desplegar la aplicación
+
+
+<img width="702" height="510" alt="image" src="https://github.com/user-attachments/assets/c28207c2-185c-4aca-9341-1266bd7c74ee" />
+
